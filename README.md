@@ -193,7 +193,7 @@ Some possible improvements for the project are:
 
 **Your Name**
 
-Replace `Your Name` with your name before uploading the project to GitHub.
+Sameer Pratap Singh
 
 ---
 
