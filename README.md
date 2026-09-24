@@ -148,22 +148,19 @@ Same     results in Draw
 
 <!-- Replace this placeholder with your actual screenshot -->
 
-![Home Screen](screenshots/home.png)
+![Files](images/file.png)
 
 ### 🎮 Gameplay
 
 <!-- Replace this placeholder with your actual screenshot -->
 
-![Gameplay](screenshots/gameplay.png)
+![Gameplay 1](images/1.png)
 
-### 🏆 Result
+![Gameplay 2](images/2.png)
 
-<!-- Replace this placeholder with your actual screenshot -->
+![Gameplay 3](images/3.png)
 
-![Result](screenshots/result.png)
-
-> **Note:** Place your screenshots inside the `screenshots` folder using the filenames shown above.
-
+![Gameplay 4](images/4.png)
 ---
 
 ## 🎯 Project Objective
