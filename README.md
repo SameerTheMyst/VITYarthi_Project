@@ -148,19 +148,19 @@ Same     results in Draw
 
 <!-- Replace this placeholder with your actual screenshot -->
 
-![Files](images/file.png)
+![Files](images/files.png)
 
 ### 🎮 Gameplay
 
 <!-- Replace this placeholder with your actual screenshot -->
 
-![Gameplay 1](images/1.png)
+<img src="images/1.png" alt="Gameplay 1" width="400">
 
-![Gameplay 2](images/2.png)
+<img src="images/2.png" alt="Gameplay 2" width="400">
 
-![Gameplay 3](images/3.png)
+<img src="images/3.png" alt="Gameplay 3" width="400">
 
-![Gameplay 4](images/4.png)
+<img src="images/4.png" alt="Gameplay 4" width="400">
 ---
 
 ## 🎯 Project Objective
