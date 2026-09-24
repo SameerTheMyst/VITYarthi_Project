@@ -61,3 +61,145 @@ Rock-Paper-Scissor/
     ├── home.png
     ├── gameplay.png
     └── result.png
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1. Install Python
+
+Make sure **Python 3** is installed on your system.
+
+You can check the installed version using:
+
+```bash
+python --version
+```
+
+If this command does not work, try:
+
+```bash
+python3 --version
+```
+
+---
+
+### 2. Clone the Repository
+
+Clone this project from GitHub using:
+
+```bash
+git clone <YOUR-GITHUB-REPOSITORY-URL>
+```
+
+Then open the project folder:
+
+```bash
+cd Rock-Paper-Scissor
+```
+
+---
+
+### 3. Run the Game
+
+Run the main Python file using:
+
+```bash
+python main.py
+```
+
+If your system uses `python3`, use:
+
+```bash
+python3 main.py
+```
+
+> **Note:** Tkinter is generally included with Python, so no additional installation is required for most systems.
+
+---
+
+## 🧪 Testing Instructions
+
+Follow these steps to test the game:
+
+1. Run the `main.py` file.
+2. Select **Rock**, **Paper**, or **Scissor**.
+3. Check that the computer generates a random choice.
+4. Verify that the correct winner is displayed.
+5. Check that the player and computer scores are updated correctly.
+6. Test all possible combinations of Rock, Paper, and Scissor.
+7. Select the same choice as the computer and verify that the result is a **Draw**.
+8. Use the **Reset/New Game** button and check that the scores are reset.
+
+### Expected Game Rules
+
+```text
+Rock     beats Scissor
+Paper    beats Rock
+Scissor  beats Paper
+Same     results in Draw
+```
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Screen
+
+<!-- Replace this placeholder with your actual screenshot -->
+
+![Home Screen](screenshots/home.png)
+
+### 🎮 Gameplay
+
+<!-- Replace this placeholder with your actual screenshot -->
+
+![Gameplay](screenshots/gameplay.png)
+
+### 🏆 Result
+
+<!-- Replace this placeholder with your actual screenshot -->
+
+![Result](screenshots/result.png)
+
+> **Note:** Place your screenshots inside the `screenshots` folder using the filenames shown above.
+
+---
+
+## 🎯 Project Objective
+
+The main objective of this project is to create a simple GUI-based game while practicing:
+
+- Python programming
+- Functions and conditional statements
+- Random choice generation
+- Tkinter GUI development
+- Button and event handling
+- Basic project organization
+
+---
+
+## 🔮 Future Improvements
+
+Some possible improvements for the project are:
+
+- 🔊 Add sound effects
+- 🎨 Add different themes
+- ✨ Add animations
+- 🏅 Add a best-of-5 or best-of-10 mode
+- 📈 Add detailed game statistics
+- 👥 Add a two-player mode
+
+---
+
+## 👨‍💻 Author
+
+**Your Name**
+
+Replace `Your Name` with your name before uploading the project to GitHub.
+
+---
+
+## 📄 License
+
+This project was created for educational and learning purposes.
