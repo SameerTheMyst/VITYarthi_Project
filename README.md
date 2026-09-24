@@ -89,7 +89,7 @@ python3 --version
 Clone this project from GitHub using:
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
+git clone https://github.com/SameerTheMyst/VITYarthi_Project/
 ```
 
 Then open the project folder:
